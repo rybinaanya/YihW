@@ -1,5 +1,11 @@
-tree data (alignment, newick files, table with orgname, protein id, assembly data?)
+tree data 
 
-mmseqs2 clusterization
+(alignment, 
+newick files, 
+table with orgname, protein id, assembly data, id% ?)
 
-code in R for visualization
+mmseqs2 clusterization script
+
+taxdump command
+
+code in R for visualization -- rmd in html
