@@ -1,13 +1,10 @@
-# Docking
+Docking DATA (final ligand and protein molecules after preparation, results -- first computational run)
 
-## Protein preparation
+Protein preparation -- instruction (for me for future)
 
+Ligand preparation -- instuction
 
-## Ligand preparation
+Docking -- command
 
-
-## Docking
-
-
-# Split
+Split -- command
 
