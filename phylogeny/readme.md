@@ -1,3 +1,5 @@
+assembly_stat.txt
+
 tree data 
 
 (alignment, 
