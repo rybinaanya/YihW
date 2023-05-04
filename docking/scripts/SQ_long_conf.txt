@@ -1,0 +1,20 @@
+receptor = YihW_long_ranked_0.pdbqt
+ligand = SQ_Conformer3D_CID_86289062_21012023_avogadro.pdbqt
+
+scoring = vina
+
+center_x = 2.704
+center_y = -0.237
+center_z = -3.518
+
+
+size_x = 68
+size_y = 60
+size_z = 74
+
+spacing = 1.000
+exhaustiveness = 32
+num_modes = 20
+verbosity = 2
+out = SQ_long_vina.pdbqt
+
