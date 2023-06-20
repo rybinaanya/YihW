@@ -25,7 +25,9 @@ echo "#_#_#_#_#_#_#_#_#_ Getting list of IDs for proteins found by phmmer #_#_#_
 grep -v '#' ${prefix}_tbl.txt | cut -f1 -d' ' | sort | uniq > ${prefix}_ids.txt
 echo -e "Done\n"
 
-# Get sequences of proteins found by phmmer 
+# Get sequences of proteins found by phmmer
+echo "#_#_#_#_#_#_#_#_#_#_#_#_ Indexing protein sequences via esl-sfetch #_#_#_#_#_#_#_#_#_#_#"
+esl-sfetch --index ${pfam_database}
 echo "#_#_#_#_#_#_#_#_#_#_#_#_ Getting protein sequences via esl-sfetch #_#_#_#_#_#_#_#_#_#_#"
 esl-sfetch  -f ${pfam_database} ${prefix}_ids.txt > ${prefix}_seq.fasta
 echo -e "Done\n"
