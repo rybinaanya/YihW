@@ -1,3 +1,3 @@
-`scripts` folder contains some scripts used for phylogenetic analysis of YihW
+Some scripts used for phylogenetic analysis of YihW are deposited in the `scripts` folder
 
-`data` folder contains 
+Folder `data`  contains 
