@@ -44,7 +44,7 @@
 
 7. To visualize phylogenetic tree with MSA and genomic loci:
 
-* R_code_plot_YihW_phylogeny.Rmd
+* `R_code_plot_YihW_phylogeny.Rmd`
 
 
 
