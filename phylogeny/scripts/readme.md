@@ -8,7 +8,7 @@
 * MMseqs2 v13-45111
 * TaxonKit v0.8.0
 * python packages: biopython, numpy, pandas, os, copy
-* R packages: 
+* R packages: msa, aplot, dplyr, ggplot2, gggenes, ggtree, glue, ggmsa, gggenes, treeio, ggtext, magrittr, stats, stringr
 
 
 **Scripts**:
