@@ -1,1 +1,2 @@
-Input files for blind docking
+Input files for a blind molecular docking:
+
