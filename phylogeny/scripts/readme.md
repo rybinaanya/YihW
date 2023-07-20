@@ -2,9 +2,10 @@
 
 * phmmer v3.1b2
 * esl-sfetch vh3.1b2
+* BLAST 2.11.0+
 * NsimScan tool v1.1.84
-* FastTree v2.1.11 No SSE3
 * MAFFT v7.475
+* FastTree v2.1.11 No SSE3
 * MMseqs2 v13-45111
 * TaxonKit v0.8.0
 * python packages: biopython, numpy, pandas, os, copy, sys
