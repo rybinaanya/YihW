@@ -1,3 +1,16 @@
+**Tools**:
+
+* phmmer v3.1b2
+* esl-sfetch vh3.1b2
+* NsimScan tool v1.1.84
+* FastTree v2.1.11 No SSE3
+* MAFFT v7.475
+* MMseqs2 v13-45111
+* TaxonKit v0.8.0
+* python packages: biopython, numpy, pandas, os, copy
+* R packages: 
+
+
 **Scripts**:
 
 1. To download genomic and protein data from RefSeq database:
@@ -28,9 +41,5 @@
 
 * `prune_tree_MSA.py`: functions for prunning tree and MSA, removing all-gaps columns in MSA
 
-
-
-
-**Requirements**:
 
 
