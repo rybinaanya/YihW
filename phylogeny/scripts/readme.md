@@ -7,7 +7,7 @@
 * MAFFT v7.475
 * MMseqs2 v13-45111
 * TaxonKit v0.8.0
-* python packages: biopython, numpy, pandas, os, copy
+* python packages: biopython, numpy, pandas, os, copy, sys
 * R packages: msa, aplot, dplyr, ggplot2, gggenes, ggtree, glue, ggmsa, gggenes, treeio, ggtext, magrittr, stats, stringr
 
 
