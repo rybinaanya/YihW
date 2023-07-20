@@ -23,13 +23,13 @@
 
 * `get_genomic_fna_headers.sh`: put in correspondence assemble_accession and refseq_chromosome_id
 
-2. Search for YihW homologs:
+2. To search for YihW homologs:
 
 * `run_phmmer_then_blastp.sh`: "phmmer + blastp" approach
 
 * `run_nsimscan.sh` and `run_blastp_after_nsimscan.sh`: "nsimscan + blastp" approach
 
-3. Get taxonomy information:
+3. To get taxonomy information:
 
 * `get_taxonomy.sh`
 
