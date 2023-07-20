@@ -42,5 +42,9 @@
 
 * `prune_tree_MSA.py`: functions for prunning tree and MSA, removing all-gaps columns in MSA
 
+7. To visualize phylogenetic tree with MSA and genomic loci:
+
+* R_code_plot_YihW_phylogeny.Rmd
+
 
 
