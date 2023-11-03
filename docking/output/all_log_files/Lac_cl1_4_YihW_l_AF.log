@@ -1,0 +1,169 @@
+AutoDock Vina v1.2.3-52-g92d1779
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# J. Eberhardt, D. Santos-Martins, A. F. Tillack, and S. Forli  #
+# AutoDock Vina 1.2.0: New Docking Methods, Expanded Force      #
+# Field, and Python Bindings, J. Chem. Inf. Model. (2021)       #
+# DOI 10.1021/acs.jcim.1c00203                                  #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, J. Comp. Chem. (2010)                         #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see https://github.com/ccsb-scripps/AutoDock-Vina for  #
+# more information.                                             #
+#################################################################
+
+Scoring function : vina
+Rigid receptor: YihW_l_alpha_cl1_min_model1.pdbqt
+Ligand: Lac_Conformer3D_CID_6134_21012023_avogadro.pdbqt
+Grid center: X 40.018 Y 39.32 Z 39.342
+Grid size  : X 58 Y 66 Z 62
+Grid space : 1
+Exhaustiveness: 32
+CPU: 0
+Verbosity: 2
+
+Computing Vina grid ... done.
+Performing docking (random seed: 877979090) ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+ENERGY FROM SEARCH: -10.3121
+FINAL ENERGY: 
+Estimated Free Energy of Binding   : -6.030 (kcal/mol) [=(1)+(2)+(3)-(4)]
+(1) Final Intermolecular Energy    : -8.849 (kcal/mol)
+    Ligand - Receptor              : -8.849 (kcal/mol)
+    Ligand - Flex side chains      : 0.000 (kcal/mol)
+(2) Final Total Internal Energy    : -1.466 (kcal/mol)
+    Ligand                         : -1.466 (kcal/mol)
+    Flex   - Receptor              : 0.000 (kcal/mol)
+    Flex   - Flex side chains      : 0.000 (kcal/mol)
+(3) Torsional Free Energy          : 2.820 (kcal/mol)
+(4) Unbound System's Energy        : -1.466 (kcal/mol)
+ENERGY FROM SEARCH: -9.391
+FINAL ENERGY: 
+Estimated Free Energy of Binding   : -5.396 (kcal/mol) [=(1)+(2)+(3)-(4)]
+(1) Final Intermolecular Energy    : -7.790 (kcal/mol)
+    Ligand - Receptor              : -7.790 (kcal/mol)
+    Ligand - Flex side chains      : 0.000 (kcal/mol)
+(2) Final Total Internal Energy    : -1.596 (kcal/mol)
+    Ligand                         : -1.596 (kcal/mol)
+    Flex   - Receptor              : 0.000 (kcal/mol)
+    Flex   - Flex side chains      : 0.000 (kcal/mol)
+(3) Torsional Free Energy          : 2.523 (kcal/mol)
+(4) Unbound System's Energy        : -1.466 (kcal/mol)
+ENERGY FROM SEARCH: -9.557
+FINAL ENERGY: 
+Estimated Free Energy of Binding   : -5.511 (kcal/mol) [=(1)+(2)+(3)-(4)]
+(1) Final Intermolecular Energy    : -8.140 (kcal/mol)
+    Ligand - Receptor              : -8.140 (kcal/mol)
+    Ligand - Flex side chains      : 0.000 (kcal/mol)
+(2) Final Total Internal Energy    : -1.415 (kcal/mol)
+    Ligand                         : -1.415 (kcal/mol)
+    Flex   - Receptor              : 0.000 (kcal/mol)
+    Flex   - Flex side chains      : 0.000 (kcal/mol)
+(3) Torsional Free Energy          : 2.577 (kcal/mol)
+(4) Unbound System's Energy        : -1.466 (kcal/mol)
+ENERGY FROM SEARCH: -9.489
+FINAL ENERGY: 
+Estimated Free Energy of Binding   : -5.469 (kcal/mol) [=(1)+(2)+(3)-(4)]
+(1) Final Intermolecular Energy    : -8.391 (kcal/mol)
+    Ligand - Receptor              : -8.391 (kcal/mol)
+    Ligand - Flex side chains      : 0.000 (kcal/mol)
+(2) Final Total Internal Energy    : -1.102 (kcal/mol)
+    Ligand                         : -1.102 (kcal/mol)
+    Flex   - Receptor              : 0.000 (kcal/mol)
+    Flex   - Flex side chains      : 0.000 (kcal/mol)
+(3) Torsional Free Energy          : 2.558 (kcal/mol)
+(4) Unbound System's Energy        : -1.466 (kcal/mol)
+ENERGY FROM SEARCH: -9.254
+FINAL ENERGY: 
+Estimated Free Energy of Binding   : -5.306 (kcal/mol) [=(1)+(2)+(3)-(4)]
+(1) Final Intermolecular Energy    : -7.935 (kcal/mol)
+    Ligand - Receptor              : -7.935 (kcal/mol)
+    Ligand - Flex side chains      : 0.000 (kcal/mol)
+(2) Final Total Internal Energy    : -1.320 (kcal/mol)
+    Ligand                         : -1.320 (kcal/mol)
+    Flex   - Receptor              : 0.000 (kcal/mol)
+    Flex   - Flex side chains      : 0.000 (kcal/mol)
+(3) Torsional Free Energy          : 2.482 (kcal/mol)
+(4) Unbound System's Energy        : -1.466 (kcal/mol)
+ENERGY FROM SEARCH: -9.046
+FINAL ENERGY: 
+Estimated Free Energy of Binding   : -5.166 (kcal/mol) [=(1)+(2)+(3)-(4)]
+(1) Final Intermolecular Energy    : -7.700 (kcal/mol)
+    Ligand - Receptor              : -7.700 (kcal/mol)
+    Ligand - Flex side chains      : 0.000 (kcal/mol)
+(2) Final Total Internal Energy    : -1.348 (kcal/mol)
+    Ligand                         : -1.348 (kcal/mol)
+    Flex   - Receptor              : 0.000 (kcal/mol)
+    Flex   - Flex side chains      : 0.000 (kcal/mol)
+(3) Torsional Free Energy          : 2.416 (kcal/mol)
+(4) Unbound System's Energy        : -1.466 (kcal/mol)
+ENERGY FROM SEARCH: -8.504
+FINAL ENERGY: 
+Estimated Free Energy of Binding   : -4.796 (kcal/mol) [=(1)+(2)+(3)-(4)]
+(1) Final Intermolecular Energy    : -7.486 (kcal/mol)
+    Ligand - Receptor              : -7.486 (kcal/mol)
+    Ligand - Flex side chains      : 0.000 (kcal/mol)
+(2) Final Total Internal Energy    : -1.020 (kcal/mol)
+    Ligand                         : -1.020 (kcal/mol)
+    Flex   - Receptor              : 0.000 (kcal/mol)
+    Flex   - Flex side chains      : 0.000 (kcal/mol)
+(3) Torsional Free Energy          : 2.243 (kcal/mol)
+(4) Unbound System's Energy        : -1.466 (kcal/mol)
+ENERGY FROM SEARCH: -8.500
+FINAL ENERGY: 
+Estimated Free Energy of Binding   : -4.791 (kcal/mol) [=(1)+(2)+(3)-(4)]
+(1) Final Intermolecular Energy    : -7.055 (kcal/mol)
+    Ligand - Receptor              : -7.055 (kcal/mol)
+    Ligand - Flex side chains      : 0.000 (kcal/mol)
+(2) Final Total Internal Energy    : -1.442 (kcal/mol)
+    Ligand                         : -1.442 (kcal/mol)
+    Flex   - Receptor              : 0.000 (kcal/mol)
+    Flex   - Flex side chains      : 0.000 (kcal/mol)
+(3) Torsional Free Energy          : 2.240 (kcal/mol)
+(4) Unbound System's Energy        : -1.466 (kcal/mol)
+ENERGY FROM SEARCH: -8.421
+FINAL ENERGY: 
+Estimated Free Energy of Binding   : -4.737 (kcal/mol) [=(1)+(2)+(3)-(4)]
+(1) Final Intermolecular Energy    : -7.333 (kcal/mol)
+    Ligand - Receptor              : -7.333 (kcal/mol)
+    Ligand - Flex side chains      : 0.000 (kcal/mol)
+(2) Final Total Internal Energy    : -1.085 (kcal/mol)
+    Ligand                         : -1.085 (kcal/mol)
+    Flex   - Receptor              : 0.000 (kcal/mol)
+    Flex   - Flex side chains      : 0.000 (kcal/mol)
+(3) Torsional Free Energy          : 2.215 (kcal/mol)
+(4) Unbound System's Energy        : -1.466 (kcal/mol)
+ENERGY FROM SEARCH: -9.314
+FINAL ENERGY: 
+Estimated Free Energy of Binding   : -5.349 (kcal/mol) [=(1)+(2)+(3)-(4)]
+(1) Final Intermolecular Energy    : -8.320 (kcal/mol)
+    Ligand - Receptor              : -8.320 (kcal/mol)
+    Ligand - Flex side chains      : 0.000 (kcal/mol)
+(2) Final Total Internal Energy    : -0.998 (kcal/mol)
+    Ligand                         : -0.998 (kcal/mol)
+    Flex   - Receptor              : 0.000 (kcal/mol)
+    Flex   - Flex side chains      : 0.000 (kcal/mol)
+(3) Torsional Free Energy          : 2.502 (kcal/mol)
+(4) Unbound System's Energy        : -1.466 (kcal/mol)
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1      -6.0296     0.0000     0.0000
+   2      -5.5111     1.4389     6.1106
+   3      -5.4687     1.5267     1.7616
+   4      -5.3958     1.5293     6.2037
+   5      -5.3494     1.5044     3.7721
+   6      -5.3064     2.2446     3.3932
+   7      -5.1660     5.2397     8.1085
+   8      -4.7962     2.0943     6.4864
+   9      -4.7905     4.8667     8.1421
+  10      -4.7366     4.6019     6.8499
