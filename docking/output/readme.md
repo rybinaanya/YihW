@@ -4,4 +4,4 @@
 
 `YihW_affinity_mode1-3.txt`: Free Energy of binding (kcal/mol) glucose (Glu), lactose (Lac), sulforhamnose (SR), sulfoquinovosyl glycerol (SQG) or sulfoquinovose (SQ) estimated by AutoDock Vina for the long and short CsqR forms. For each computational run, data on three modes with top affinities is provided.
 
-other folders contain predicted docking modes for 5 computational run with all models of CsqR (CsqR-l-AF, CsqR-s-AF, CsqR-s-IT open, and CsqR-s-IT compact) and ligands (Glu, SQ, SR, SQG, and Lac)
+other folders contain predicted docking modes for 5 computational runs with all models of CsqR (CsqR-l-AF, CsqR-s-AF, CsqR-s-IT open, and CsqR-s-IT compact) and ligands (Glu, SQ, SR, SQG, and Lac)
