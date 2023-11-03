@@ -1,0 +1,331 @@
+ligand	cluster	run	mode	affinity	rmsd_lb	rmsd_ub	model
+Glu	cl1	1	1	-5.1829	0.0	0.0	CsqR-l
+Glu	cl1	1	2	-5.1671	1.1276	2.7993	CsqR-l
+Glu	cl1	1	3	-5.1339	1.0646	3.6381	CsqR-l
+Glu	cl1	2	1	-5.9974	0.0	0.0	CsqR-l
+Glu	cl1	2	2	-5.2459	1.2942	3.3142	CsqR-l
+Glu	cl1	2	3	-4.9247	1.6178	2.5373	CsqR-l
+Glu	cl1	3	1	-5.0658	0.0	0.0	CsqR-l
+Glu	cl1	3	2	-5.0125	1.1275	3.647	CsqR-l
+Glu	cl1	3	3	-4.6841	1.3295	2.946	CsqR-l
+Glu	cl1	4	1	-5.4284	0.0	0.0	CsqR-l
+Glu	cl1	4	2	-4.9509	1.3135	3.304	CsqR-l
+Glu	cl1	4	3	-4.7886	1.4691	3.7956	CsqR-l
+Glu	cl1	5	1	-5.5291	0.0	0.0	CsqR-l
+Glu	cl1	5	2	-5.2361	1.2005	3.1426	CsqR-l
+Glu	cl1	5	3	-5.1421	1.2942	2.4301	CsqR-l
+Lac	cl1	1	1	-6.0858	0.0	0.0	CsqR-l
+Lac	cl1	1	2	-5.4604	1.552	6.1002	CsqR-l
+Lac	cl1	1	3	-5.4102	2.382	3.6077	CsqR-l
+Lac	cl1	2	1	-6.1574	0.0	0.0	CsqR-l
+Lac	cl1	2	2	-5.8121	1.7678	1.9114	CsqR-l
+Lac	cl1	2	3	-5.4793	1.5271	6.158	CsqR-l
+Lac	cl1	3	1	-6.1553	0.0	0.0	CsqR-l
+Lac	cl1	3	2	-5.8031	1.7848	6.0941	CsqR-l
+Lac	cl1	3	3	-5.4696	1.5172	6.1302	CsqR-l
+Lac	cl1	4	1	-6.0296	0.0	0.0	CsqR-l
+Lac	cl1	4	2	-5.5111	1.4389	6.1106	CsqR-l
+Lac	cl1	4	3	-5.4687	1.5267	1.7616	CsqR-l
+Lac	cl1	5	1	-6.0707	0.0	0.0	CsqR-l
+Lac	cl1	5	2	-5.4457	1.5157	6.1365	CsqR-l
+Lac	cl1	5	3	-5.4209	1.4435	5.9644	CsqR-l
+SQ	cl1	1	1	-5.8598	0.0	0.0	CsqR-l
+SQ	cl1	1	2	-5.7482	1.5939	2.8113	CsqR-l
+SQ	cl1	1	3	-5.6221	1.2709	1.2709	CsqR-l
+SQ	cl1	2	1	-5.8464	0.0	0.0	CsqR-l
+SQ	cl1	2	2	-5.5803	1.533	2.9425	CsqR-l
+SQ	cl1	2	3	-5.0407	1.4004	1.72	CsqR-l
+SQ	cl1	3	1	-5.8761	0.0	0.0	CsqR-l
+SQ	cl1	3	2	-5.5321	1.5175	2.7666	CsqR-l
+SQ	cl1	3	3	-5.0852	2.3408	4.9975	CsqR-l
+SQ	cl1	4	1	-5.8551	0.0	0.0	CsqR-l
+SQ	cl1	4	2	-5.4937	1.5014	2.8875	CsqR-l
+SQ	cl1	4	3	-4.9973	2.595	4.9318	CsqR-l
+SQ	cl1	5	1	-5.9648	0.0	0.0	CsqR-l
+SQ	cl1	5	2	-5.6345	1.4855	2.9304	CsqR-l
+SQ	cl1	5	3	-4.8253	10.1589	11.6512	CsqR-l
+SQGro	cl1	1	1	-5.7465	0.0	0.0	CsqR-l
+SQGro	cl1	1	2	-5.5552	1.7076	2.3457	CsqR-l
+SQGro	cl1	1	3	-5.4787	2.594	4.8914	CsqR-l
+SQGro	cl1	2	1	-5.3067	0.0	0.0	CsqR-l
+SQGro	cl1	2	2	-5.1195	1.5932	1.9672	CsqR-l
+SQGro	cl1	2	3	-4.937	11.1725	12.9001	CsqR-l
+SQGro	cl1	3	1	-5.7377	0.0	0.0	CsqR-l
+SQGro	cl1	3	2	-5.1943	1.6764	2.7846	CsqR-l
+SQGro	cl1	3	3	-5.0653	10.4196	12.0183	CsqR-l
+SQGro	cl1	4	1	-5.7735	0.0	0.0	CsqR-l
+SQGro	cl1	4	2	-5.3164	10.3312	12.1252	CsqR-l
+SQGro	cl1	4	3	-5.2681	2.5125	5.7498	CsqR-l
+SQGro	cl1	5	1	-5.8019	0.0	0.0	CsqR-l
+SQGro	cl1	5	2	-5.2767	1.5533	2.7333	CsqR-l
+SQGro	cl1	5	3	-5.1029	2.557	5.4976	CsqR-l
+SR	cl1	1	1	-6.1513	0.0	0.0	CsqR-l
+SR	cl1	1	2	-5.3548	1.6233	2.8287	CsqR-l
+SR	cl1	1	3	-4.9546	2.1597	5.1385	CsqR-l
+SR	cl1	2	1	-5.4845	0.0	0.0	CsqR-l
+SR	cl1	2	2	-5.3162	1.6289	2.293	CsqR-l
+SR	cl1	2	3	-5.0729	2.1593	4.9782	CsqR-l
+SR	cl1	3	1	-6.008	0.0	0.0	CsqR-l
+SR	cl1	3	2	-5.066	2.2383	4.9029	CsqR-l
+SR	cl1	3	3	-4.8171	10.0553	11.297	CsqR-l
+SR	cl1	4	1	-6.0147	0.0	0.0	CsqR-l
+SR	cl1	4	2	-5.4051	1.443	2.9613	CsqR-l
+SR	cl1	4	3	-5.2802	2.3326	5.0697	CsqR-l
+SR	cl1	5	1	-5.9867	0.0	0.0	CsqR-l
+SR	cl1	5	2	-5.3248	1.5482	2.935	CsqR-l
+SR	cl1	5	3	-4.8915	1.6931	2.0243	CsqR-l
+Glu	cl1	1	1	-5.4945	0.0	0.0	CsqR-s-AF
+Glu	cl1	1	2	-5.2213	1.4032	4.6034	CsqR-s-AF
+Glu	cl1	1	3	-5.1502	1.0833	4.0396	CsqR-s-AF
+Glu	cl1	2	1	-5.4917	0.0	0.0	CsqR-s-AF
+Glu	cl1	2	2	-5.457	8.7629	10.3672	CsqR-s-AF
+Glu	cl1	2	3	-5.1053	1.5742	3.132	CsqR-s-AF
+Glu	cl1	3	1	-5.4217	0.0	0.0	CsqR-s-AF
+Glu	cl1	3	2	-5.2039	1.3615	2.9929	CsqR-s-AF
+Glu	cl1	3	3	-5.1208	1.1047	3.9828	CsqR-s-AF
+Glu	cl1	4	1	-5.2213	0.0	0.0	CsqR-s-AF
+Glu	cl1	4	2	-5.1384	1.3243	3.7447	CsqR-s-AF
+Glu	cl1	4	3	-5.1329	1.5597	4.0012	CsqR-s-AF
+Glu	cl1	5	1	-5.5276	0.0	0.0	CsqR-s-AF
+Glu	cl1	5	2	-5.2526	8.4708	10.0785	CsqR-s-AF
+Glu	cl1	5	3	-5.2017	1.171	4.1146	CsqR-s-AF
+Lac	cl1	1	1	-6.328	0.0	0.0	CsqR-s-AF
+Lac	cl1	1	2	-6.0703	1.8283	6.1286	CsqR-s-AF
+Lac	cl1	1	3	-5.9766	2.2232	3.6323	CsqR-s-AF
+Lac	cl1	2	1	-6.3931	0.0	0.0	CsqR-s-AF
+Lac	cl1	2	2	-6.1922	1.8624	6.3167	CsqR-s-AF
+Lac	cl1	2	3	-6.0632	1.8626	6.1264	CsqR-s-AF
+Lac	cl1	3	1	-7.0702	0.0	0.0	CsqR-s-AF
+Lac	cl1	3	2	-6.288	3.5272	6.2785	CsqR-s-AF
+Lac	cl1	3	3	-6.081	2.6413	7.7028	CsqR-s-AF
+Lac	cl1	4	1	-6.412	0.0	0.0	CsqR-s-AF
+Lac	cl1	4	2	-6.3886	2.4992	3.3534	CsqR-s-AF
+Lac	cl1	4	3	-6.1778	1.606	5.735	CsqR-s-AF
+Lac	cl1	5	1	-6.3337	0.0	0.0	CsqR-s-AF
+Lac	cl1	5	2	-6.1915	1.7885	6.0581	CsqR-s-AF
+Lac	cl1	5	3	-6.0266	1.7269	2.5203	CsqR-s-AF
+SQ	cl1	1	1	-6.0894	0.0	0.0	CsqR-s-AF
+SQ	cl1	1	2	-5.9659	1.2972	2.8549	CsqR-s-AF
+SQ	cl1	1	3	-5.8021	2.3206	2.925	CsqR-s-AF
+SQ	cl1	2	1	-5.9679	0.0	0.0	CsqR-s-AF
+SQ	cl1	2	2	-5.7639	1.9813	3.3889	CsqR-s-AF
+SQ	cl1	2	3	-5.3983	1.4501	1.9585	CsqR-s-AF
+SQ	cl1	3	1	-6.0776	0.0	0.0	CsqR-s-AF
+SQ	cl1	3	2	-6.0051	1.294	2.8876	CsqR-s-AF
+SQ	cl1	3	3	-5.8612	2.2637	2.782	CsqR-s-AF
+SQ	cl1	4	1	-6.032	0.0	0.0	CsqR-s-AF
+SQ	cl1	4	2	-5.9759	1.3165	2.7133	CsqR-s-AF
+SQ	cl1	4	3	-5.8084	2.2495	2.8305	CsqR-s-AF
+SQ	cl1	5	1	-5.9419	0.0	0.0	CsqR-s-AF
+SQ	cl1	5	2	-5.8764	1.2081	2.6727	CsqR-s-AF
+SQ	cl1	5	3	-5.811	1.9884	3.3255	CsqR-s-AF
+SQGro	cl1	1	1	-5.897	0.0	0.0	CsqR-s-AF
+SQGro	cl1	1	2	-5.8759	1.6204	2.4659	CsqR-s-AF
+SQGro	cl1	1	3	-5.7264	2.2938	4.8785	CsqR-s-AF
+SQGro	cl1	2	1	-5.912	0.0	0.0	CsqR-s-AF
+SQGro	cl1	2	2	-5.5344	2.558	5.2006	CsqR-s-AF
+SQGro	cl1	2	3	-5.5196	2.3369	5.9806	CsqR-s-AF
+SQGro	cl1	3	1	-5.7108	0.0	0.0	CsqR-s-AF
+SQGro	cl1	3	2	-5.6849	2.2612	4.5741	CsqR-s-AF
+SQGro	cl1	3	3	-5.5788	2.533	5.5659	CsqR-s-AF
+SQGro	cl1	4	1	-5.9299	0.0	0.0	CsqR-s-AF
+SQGro	cl1	4	2	-5.5266	1.9756	4.3844	CsqR-s-AF
+SQGro	cl1	4	3	-5.4582	2.3517	6.0461	CsqR-s-AF
+SQGro	cl1	5	1	-6.9249	0.0	0.0	CsqR-s-AF
+SQGro	cl1	5	2	-6.463	1.475	2.3511	CsqR-s-AF
+SQGro	cl1	5	3	-5.7351	2.7016	6.2982	CsqR-s-AF
+SR	cl1	1	1	-6.0495	0.0	0.0	CsqR-s-AF
+SR	cl1	1	2	-6.01	0.1526	1.1141	CsqR-s-AF
+SR	cl1	1	3	-5.121	1.443	2.1349	CsqR-s-AF
+SR	cl1	2	1	-6.0706	0.0	0.0	CsqR-s-AF
+SR	cl1	2	2	-6.0519	0.1631	1.1332	CsqR-s-AF
+SR	cl1	2	3	-6.0358	0.0838	1.1148	CsqR-s-AF
+SR	cl1	3	1	-6.1119	0.0	0.0	CsqR-s-AF
+SR	cl1	3	2	-6.0624	0.1067	1.0894	CsqR-s-AF
+SR	cl1	3	3	-5.2222	2.1115	4.8988	CsqR-s-AF
+SR	cl1	4	1	-5.9617	0.0	0.0	CsqR-s-AF
+SR	cl1	4	2	-5.5146	0.9555	1.0833	CsqR-s-AF
+SR	cl1	4	3	-5.3752	0.4503	1.169	CsqR-s-AF
+SR	cl1	5	1	-6.073	0.0	0.0	CsqR-s-AF
+SR	cl1	5	2	-6.0543	0.1166	1.1186	CsqR-s-AF
+SR	cl1	5	3	-5.2322	2.1248	4.8907	CsqR-s-AF
+Glu	cl2	1	1	-4.5869	0.0	0.0	CsqR-s-IT, compact
+Glu	cl2	1	2	-4.4766	6.9675	8.0694	CsqR-s-IT, compact
+Glu	cl2	1	3	-4.3196	12.9755	14.911	CsqR-s-IT, compact
+Glu	cl2	2	1	-4.4183	0.0	0.0	CsqR-s-IT, compact
+Glu	cl2	2	2	-4.3955	7.2179	9.6009	CsqR-s-IT, compact
+Glu	cl2	2	3	-4.3289	25.4561	27.5164	CsqR-s-IT, compact
+Glu	cl2	3	1	-4.392	0.0	0.0	CsqR-s-IT, compact
+Glu	cl2	3	2	-4.3677	7.2612	9.5908	CsqR-s-IT, compact
+Glu	cl2	3	3	-4.2932	25.3967	27.4669	CsqR-s-IT, compact
+Glu	cl2	4	1	-4.6306	0.0	0.0	CsqR-s-IT, compact
+Glu	cl2	4	2	-4.5872	27.185	28.7551	CsqR-s-IT, compact
+Glu	cl2	4	3	-4.4034	20.6287	22.5273	CsqR-s-IT, compact
+Glu	cl2	5	1	-4.4919	0.0	0.0	CsqR-s-IT, compact
+Glu	cl2	5	2	-4.4668	7.3615	9.719	CsqR-s-IT, compact
+Glu	cl2	5	3	-4.3036	12.3157	14.2324	CsqR-s-IT, compact
+Lac	cl2	1	1	-5.5625	0.0	0.0	CsqR-s-IT, compact
+Lac	cl2	1	2	-5.4952	19.2785	22.1267	CsqR-s-IT, compact
+Lac	cl2	1	3	-5.3517	1.6091	6.2067	CsqR-s-IT, compact
+Lac	cl2	2	1	-5.6898	0.0	0.0	CsqR-s-IT, compact
+Lac	cl2	2	2	-5.6286	1.9198	3.402	CsqR-s-IT, compact
+Lac	cl2	2	3	-5.3351	9.6844	11.2885	CsqR-s-IT, compact
+Lac	cl2	3	1	-6.2456	0.0	0.0	CsqR-s-IT, compact
+Lac	cl2	3	2	-5.7588	1.7444	3.5548	CsqR-s-IT, compact
+Lac	cl2	3	3	-5.4923	2.041	5.9926	CsqR-s-IT, compact
+Lac	cl2	4	1	-5.7434	0.0	0.0	CsqR-s-IT, compact
+Lac	cl2	4	2	-5.6931	1.9716	3.3689	CsqR-s-IT, compact
+Lac	cl2	4	3	-5.6467	1.8754	6.3847	CsqR-s-IT, compact
+Lac	cl2	5	1	-5.6144	0.0	0.0	CsqR-s-IT, compact
+Lac	cl2	5	2	-5.234	9.5987	11.1972	CsqR-s-IT, compact
+Lac	cl2	5	3	-5.1448	1.7102	6.7884	CsqR-s-IT, compact
+SQ	cl2	1	1	-5.5298	0.0	0.0	CsqR-s-IT, compact
+SQ	cl2	1	2	-5.2908	2.0923	2.6623	CsqR-s-IT, compact
+SQ	cl2	1	3	-5.0019	1.6471	2.5492	CsqR-s-IT, compact
+SQ	cl2	2	1	-5.0903	0.0	0.0	CsqR-s-IT, compact
+SQ	cl2	2	2	-4.7237	11.4406	12.676	CsqR-s-IT, compact
+SQ	cl2	2	3	-4.7075	11.2632	13.5215	CsqR-s-IT, compact
+SQ	cl2	3	1	-5.525	0.0	0.0	CsqR-s-IT, compact
+SQ	cl2	3	2	-5.2665	2.0925	2.7323	CsqR-s-IT, compact
+SQ	cl2	3	3	-4.95	11.4952	13.7095	CsqR-s-IT, compact
+SQ	cl2	4	1	-4.6812	0.0	0.0	CsqR-s-IT, compact
+SQ	cl2	4	2	-4.6559	15.1194	16.4119	CsqR-s-IT, compact
+SQ	cl2	4	3	-4.6361	13.624	15.3055	CsqR-s-IT, compact
+SQ	cl2	5	1	-5.0406	0.0	0.0	CsqR-s-IT, compact
+SQ	cl2	5	2	-4.9498	2.1036	2.7661	CsqR-s-IT, compact
+SQ	cl2	5	3	-4.8876	1.8407	2.6891	CsqR-s-IT, compact
+SQGro	cl2	1	1	-4.8573	0.0	0.0	CsqR-s-IT, compact
+SQGro	cl2	1	2	-4.8007	9.7702	12.0435	CsqR-s-IT, compact
+SQGro	cl2	1	3	-4.792	2.4972	6.2624	CsqR-s-IT, compact
+SQGro	cl2	2	1	-4.6869	0.0	0.0	CsqR-s-IT, compact
+SQGro	cl2	2	2	-4.3093	9.4074	12.5257	CsqR-s-IT, compact
+SQGro	cl2	2	3	-4.3084	20.8173	23.2833	CsqR-s-IT, compact
+SQGro	cl2	3	1	-5.0388	0.0	0.0	CsqR-s-IT, compact
+SQGro	cl2	3	2	-4.7641	3.0379	6.5404	CsqR-s-IT, compact
+SQGro	cl2	3	3	-4.6468	12.0639	14.9633	CsqR-s-IT, compact
+SQGro	cl2	4	1	-4.8178	0.0	0.0	CsqR-s-IT, compact
+SQGro	cl2	4	2	-4.5961	1.6895	2.4679	CsqR-s-IT, compact
+SQGro	cl2	4	3	-4.5559	9.9702	12.6893	CsqR-s-IT, compact
+SQGro	cl2	5	1	-4.8053	0.0	0.0	CsqR-s-IT, compact
+SQGro	cl2	5	2	-4.773	2.4497	5.1299	CsqR-s-IT, compact
+SQGro	cl2	5	3	-4.5995	9.2327	11.6858	CsqR-s-IT, compact
+SR	cl2	1	1	-5.2593	0.0	0.0	CsqR-s-IT, compact
+SR	cl2	1	2	-5.1473	2.1298	4.9037	CsqR-s-IT, compact
+SR	cl2	1	3	-5.0824	2.1684	5.0715	CsqR-s-IT, compact
+SR	cl2	2	1	-5.1776	0.0	0.0	CsqR-s-IT, compact
+SR	cl2	2	2	-4.9423	2.1673	5.0581	CsqR-s-IT, compact
+SR	cl2	2	3	-4.8938	12.4767	13.7746	CsqR-s-IT, compact
+SR	cl2	3	1	-5.2336	0.0	0.0	CsqR-s-IT, compact
+SR	cl2	3	2	-5.1765	2.14	4.8521	CsqR-s-IT, compact
+SR	cl2	3	3	-5.0843	2.1877	5.0817	CsqR-s-IT, compact
+SR	cl2	4	1	-5.2339	0.0	0.0	CsqR-s-IT, compact
+SR	cl2	4	2	-5.0549	2.2098	5.0881	CsqR-s-IT, compact
+SR	cl2	4	3	-4.9754	11.9581	13.2313	CsqR-s-IT, compact
+SR	cl2	5	1	-5.2503	0.0	0.0	CsqR-s-IT, compact
+SR	cl2	5	2	-5.0328	2.1721	5.0729	CsqR-s-IT, compact
+SR	cl2	5	3	-4.8665	2.5282	4.905	CsqR-s-IT, compact
+Glu	cl1	1	1	-4.2546	0.0	0.0	CsqR-s-IT, open
+Glu	cl1	1	2	-4.0831	25.0264	25.7564	CsqR-s-IT, open
+Glu	cl1	1	3	-4.0032	25.1001	25.867	CsqR-s-IT, open
+Glu	cl1	2	1	-4.4933	0.0	0.0	CsqR-s-IT, open
+Glu	cl1	2	2	-4.4676	25.1715	26.0419	CsqR-s-IT, open
+Glu	cl1	2	3	-4.2698	25.3407	26.0968	CsqR-s-IT, open
+Glu	cl1	3	1	-4.3505	0.0	0.0	CsqR-s-IT, open
+Glu	cl1	3	2	-4.1813	25.2775	25.9455	CsqR-s-IT, open
+Glu	cl1	3	3	-4.0865	24.9918	25.7211	CsqR-s-IT, open
+Glu	cl1	4	1	-4.2307	0.0	0.0	CsqR-s-IT, open
+Glu	cl1	4	2	-4.1464	25.1783	25.7803	CsqR-s-IT, open
+Glu	cl1	4	3	-3.9829	25.71	26.3613	CsqR-s-IT, open
+Glu	cl1	5	1	-4.4037	0.0	0.0	CsqR-s-IT, open
+Glu	cl1	5	2	-4.371	25.1451	25.8682	CsqR-s-IT, open
+Glu	cl1	5	3	-4.1474	2.5589	4.9163	CsqR-s-IT, open
+Lac	cl1	10	1	-5.4667	0.0	0.0	CsqR-s-IT, open
+Lac	cl1	10	2	-5.2483	1.8163	6.7943	CsqR-s-IT, open
+Lac	cl1	10	3	-5.1517	2.0956	6.3293	CsqR-s-IT, open
+Lac	cl1	1	1	-5.2938	0.0	0.0	CsqR-s-IT, open
+Lac	cl1	1	2	-5.2096	2.3296	4.0113	CsqR-s-IT, open
+Lac	cl1	1	3	-5.169	1.922	6.0813	CsqR-s-IT, open
+Lac	cl1	2	1	-5.7084	0.0	0.0	CsqR-s-IT, open
+Lac	cl1	2	2	-5.5707	1.2043	6.6665	CsqR-s-IT, open
+Lac	cl1	2	3	-5.4041	2.0989	6.3251	CsqR-s-IT, open
+Lac	cl1	3	1	-5.8451	0.0	0.0	CsqR-s-IT, open
+Lac	cl1	3	2	-5.6572	1.7474	6.8444	CsqR-s-IT, open
+Lac	cl1	3	3	-5.5364	2.2003	3.2888	CsqR-s-IT, open
+Lac	cl1	4	1	-6.0194	0.0	0.0	CsqR-s-IT, open
+Lac	cl1	4	2	-5.615	1.6856	2.1487	CsqR-s-IT, open
+Lac	cl1	4	3	-5.5979	2.1053	6.1331	CsqR-s-IT, open
+Lac	cl1	5	1	-6.3321	0.0	0.0	CsqR-s-IT, open
+Lac	cl1	5	2	-6.2563	1.4224	6.8388	CsqR-s-IT, open
+Lac	cl1	5	3	-5.7825	2.0076	3.221	CsqR-s-IT, open
+Lac	cl1	6	1	-6.1309	0.0	0.0	CsqR-s-IT, open
+Lac	cl1	6	2	-6.0618	1.4179	6.8515	CsqR-s-IT, open
+Lac	cl1	6	3	-5.8003	1.4895	6.6019	CsqR-s-IT, open
+Lac	cl1	7	1	-6.4151	0.0	0.0	CsqR-s-IT, open
+Lac	cl1	7	2	-6.3439	1.3915	6.8609	CsqR-s-IT, open
+Lac	cl1	7	3	-5.9272	1.9376	6.1182	CsqR-s-IT, open
+Lac	cl1	8	1	-5.9207	0.0	0.0	CsqR-s-IT, open
+Lac	cl1	8	2	-5.8349	1.1283	6.7444	CsqR-s-IT, open
+Lac	cl1	8	3	-5.6458	1.9357	3.1939	CsqR-s-IT, open
+Lac	cl1	9	1	-5.8349	0.0	0.0	CsqR-s-IT, open
+Lac	cl1	9	2	-5.5606	1.9197	5.8844	CsqR-s-IT, open
+Lac	cl1	9	3	-5.5567	1.7651	6.8401	CsqR-s-IT, open
+SQ	cl1	1	1	-5.2807	0.0	0.0	CsqR-s-IT, open
+SQ	cl1	1	2	-5.2457	1.6464	2.3044	CsqR-s-IT, open
+SQ	cl1	1	3	-4.9771	2.1194	5.2838	CsqR-s-IT, open
+SQ	cl1	2	1	-5.2358	0.0	0.0	CsqR-s-IT, open
+SQ	cl1	2	2	-5.2223	0.0874	1.0949	CsqR-s-IT, open
+SQ	cl1	2	3	-5.1711	1.7084	2.2451	CsqR-s-IT, open
+SQ	cl1	3	1	-5.2649	0.0	0.0	CsqR-s-IT, open
+SQ	cl1	3	2	-5.1785	1.2742	1.9397	CsqR-s-IT, open
+SQ	cl1	3	3	-5.1189	1.6506	2.3707	CsqR-s-IT, open
+SQ	cl1	4	1	-5.4707	0.0	0.0	CsqR-s-IT, open
+SQ	cl1	4	2	-5.2743	1.0673	1.3907	CsqR-s-IT, open
+SQ	cl1	4	3	-5.1258	1.5792	2.3824	CsqR-s-IT, open
+SQ	cl1	5	1	-5.211	0.0	0.0	CsqR-s-IT, open
+SQ	cl1	5	2	-5.1295	1.6543	2.0776	CsqR-s-IT, open
+SQ	cl1	5	3	-5.1116	1.2776	1.9793	CsqR-s-IT, open
+SQGro	cl1	10	1	-4.9051	0.0	0.0	CsqR-s-IT, open
+SQGro	cl1	10	2	-4.8796	2.5217	5.4188	CsqR-s-IT, open
+SQGro	cl1	10	3	-4.8541	2.8734	5.3134	CsqR-s-IT, open
+SQGro	cl1	1	1	-4.8777	0.0	0.0	CsqR-s-IT, open
+SQGro	cl1	1	2	-4.8695	2.5946	5.4776	CsqR-s-IT, open
+SQGro	cl1	1	3	-4.7344	2.8727	5.2486	CsqR-s-IT, open
+SQGro	cl1	2	1	-4.7498	0.0	0.0	CsqR-s-IT, open
+SQGro	cl1	2	2	-4.6871	2.7587	3.9769	CsqR-s-IT, open
+SQGro	cl1	2	3	-4.6123	2.3355	5.6383	CsqR-s-IT, open
+SQGro	cl1	3	1	-4.7309	0.0	0.0	CsqR-s-IT, open
+SQGro	cl1	3	2	-4.6303	2.7431	6.0279	CsqR-s-IT, open
+SQGro	cl1	3	3	-4.4977	2.3215	3.4219	CsqR-s-IT, open
+SQGro	cl1	4	1	-4.8021	0.0	0.0	CsqR-s-IT, open
+SQGro	cl1	4	2	-4.7933	2.1613	4.2921	CsqR-s-IT, open
+SQGro	cl1	4	3	-4.7906	2.1819	5.1024	CsqR-s-IT, open
+SQGro	cl1	5	1	-4.8755	0.0	0.0	CsqR-s-IT, open
+SQGro	cl1	5	2	-4.8711	2.5625	5.4795	CsqR-s-IT, open
+SQGro	cl1	5	3	-4.7848	2.7022	3.9555	CsqR-s-IT, open
+SQGro	cl1	6	1	-4.7437	0.0	0.0	CsqR-s-IT, open
+SQGro	cl1	6	2	-4.7368	1.5074	1.9802	CsqR-s-IT, open
+SQGro	cl1	6	3	-4.7279	2.1561	5.0388	CsqR-s-IT, open
+SQGro	cl1	7	1	-4.8679	0.0	0.0	CsqR-s-IT, open
+SQGro	cl1	7	2	-4.7774	1.7737	2.2703	CsqR-s-IT, open
+SQGro	cl1	7	3	-4.6623	2.3966	5.7103	CsqR-s-IT, open
+SQGro	cl1	8	1	-4.8486	0.0	0.0	CsqR-s-IT, open
+SQGro	cl1	8	2	-4.6453	2.6853	6.2281	CsqR-s-IT, open
+SQGro	cl1	8	3	-4.5618	2.8637	4.8993	CsqR-s-IT, open
+SQGro	cl1	9	1	-4.9036	0.0	0.0	CsqR-s-IT, open
+SQGro	cl1	9	2	-4.7528	2.6479	3.9167	CsqR-s-IT, open
+SQGro	cl1	9	3	-4.7262	2.3571	5.7998	CsqR-s-IT, open
+SR	cl1	1	1	-5.4844	0.0	0.0	CsqR-s-IT, open
+SR	cl1	1	2	-5.3854	1.6496	2.5497	CsqR-s-IT, open
+SR	cl1	1	3	-5.2648	1.5473	2.2577	CsqR-s-IT, open
+SR	cl1	2	1	-5.5927	0.0	0.0	CsqR-s-IT, open
+SR	cl1	2	2	-5.3069	1.63	2.5045	CsqR-s-IT, open
+SR	cl1	2	3	-4.9474	1.6252	2.4739	CsqR-s-IT, open
+SR	cl1	3	1	-5.4819	0.0	0.0	CsqR-s-IT, open
+SR	cl1	3	2	-5.4709	1.7148	2.5744	CsqR-s-IT, open
+SR	cl1	3	3	-5.4246	1.5631	2.3864	CsqR-s-IT, open
+SR	cl1	4	1	-5.4521	0.0	0.0	CsqR-s-IT, open
+SR	cl1	4	2	-5.3587	1.6953	2.5528	CsqR-s-IT, open
+SR	cl1	4	3	-5.1748	2.0863	2.9054	CsqR-s-IT, open
+SR	cl1	5	1	-5.4529	0.0	0.0	CsqR-s-IT, open
+SR	cl1	5	2	-5.2589	1.7086	2.5827	CsqR-s-IT, open
+SR	cl1	5	3	-4.8489	1.1617	1.809	CsqR-s-IT, open
