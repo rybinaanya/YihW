@@ -4,5 +4,4 @@ Input files for docking
 
 `Lac_Conformer3D_CID_6134_21012023_avogadro.pdbqt`, `SQ_Conformer3D_CID_86289062_21012023_avogadro.pdbqt`: ligand molecules with hydrogens added, geometry optimized, non-polar hydrogens merged, and Gasteiger charges assigned
 
-`YihW_long_ranked_0.pdbqt`, `YihW_short_ranked_0.pdbqt`: AphaFold models of YihW with hydrogen atoms added, non-polar atoms merged, and Kollman charges assigned
-
+`YihW_l_alpha_cl1_min_model1.pdbqt` (CsqR-l-AF), `YihW_s_AF_cl1_min_model1.pdbqt` (CsqR-s-AF), `YihW_s_templ_cl1_min_model1.pdbqt` (CsqR-s-IT, open conformation), `YihW_s_templ_cl2_min_model1.pdbqt` (CsqR-s-IT, compact conformation) : models of YihW (CsqR) with hydrogen atoms added, non-polar atoms merged, and Kollman charges assigned
