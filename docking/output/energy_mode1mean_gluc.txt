@@ -1,0 +1,21 @@
+ligand	model	cluster	mean	std	model_fixed
+Glucose	CsqR-l AlphaFold	cl1	-5.44072	0.36224701102976664	CsqR-l AlphaFold
+Glucose	CsqR-s AlphaFold 	cl1	-5.43136	0.1236003964394935	CsqR-s AlphaFold
+Glucose	CsqR-s I-TASSER, template-based	cl1	-4.34656	0.10804317655456076	CsqR-s I-TASSER, open
+Glucose	CsqR-s I-TASSER, template-based	cl2	-4.503940000000001	0.10360363410614504	CsqR-s I-TASSER, compact
+Lactose	CsqR-l AlphaFold	cl1	-6.099760000000001	0.055607670334226346	CsqR-l AlphaFold
+Lactose	CsqR-s AlphaFold 	cl1	-6.5074	0.31672761957240153	CsqR-s AlphaFold
+Lactose	CsqR-s I-TASSER, template-based	cl1	-5.89671	0.3526281877243759	CsqR-s I-TASSER, open
+Lactose	CsqR-s I-TASSER, template-based	cl2	-5.771140000000001	0.2741332121432934	CsqR-s I-TASSER, compact
+SQ	CsqR-l AlphaFold	cl1	-5.88044	0.04837946878583943	CsqR-l AlphaFold
+SQ	CsqR-s AlphaFold 	cl1	-6.0217600000000004	0.06533883225157916	CsqR-s AlphaFold
+SQ	CsqR-s I-TASSER, template-based	cl1	-5.292620000000001	0.10309377769778334	CsqR-s I-TASSER, open
+SQ	CsqR-s I-TASSER, template-based	cl2	-5.17338	0.3596685307335076	CsqR-s I-TASSER, compact
+SQG	CsqR-l AlphaFold	cl1	-5.67326	0.20644560542670795	CsqR-l AlphaFold
+SQG	CsqR-s AlphaFold 	cl1	-6.0749200000000005	0.4832904478675324	CsqR-s AlphaFold
+SQG	CsqR-s I-TASSER, template-based	cl1	-4.830489999999999	0.06803710507264894	CsqR-s I-TASSER, open
+SQG	CsqR-s I-TASSER, template-based	cl2	-4.84122	0.12742628064885222	CsqR-s I-TASSER, compact
+SR	CsqR-l AlphaFold	cl1	-5.92904	0.2568619823952157	CsqR-l AlphaFold
+SR	CsqR-s AlphaFold 	cl1	-6.05334	0.05596054860345805	CsqR-s AlphaFold
+SR	CsqR-s I-TASSER, template-based	cl1	-5.4928	0.05791778655991612	CsqR-s I-TASSER, open
+SR	CsqR-s I-TASSER, template-based	cl2	-5.23094	0.03178085901922724	CsqR-s I-TASSER, compact
