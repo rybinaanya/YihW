@@ -1,4 +1,4 @@
-* Description *
+**Description of files**
 
 Input files for docking
 
